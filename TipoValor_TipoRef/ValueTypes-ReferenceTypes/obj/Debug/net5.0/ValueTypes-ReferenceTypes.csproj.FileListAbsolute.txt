@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\bin\Debug\net5.0\ValueTypes-ReferenceTypes.exe
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\bin\Debug\net5.0\ValueTypes-ReferenceTypes.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\bin\Debug\net5.0\ValueTypes-ReferenceTypes.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\bin\Debug\net5.0\ValueTypes-ReferenceTypes.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\bin\Debug\net5.0\ValueTypes-ReferenceTypes.dll
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\bin\Debug\net5.0\ref\ValueTypes-ReferenceTypes.dll
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\bin\Debug\net5.0\ValueTypes-ReferenceTypes.pdb
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.dll
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ref\ValueTypes-ReferenceTypes.dll
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.pdb
+C:\Users\Andre\Documents\Atividades_Dio\TipoValor_TipoRef\ValueTypes-ReferenceTypes\obj\Debug\net5.0\ValueTypes-ReferenceTypes.genruntimeconfig.cache
