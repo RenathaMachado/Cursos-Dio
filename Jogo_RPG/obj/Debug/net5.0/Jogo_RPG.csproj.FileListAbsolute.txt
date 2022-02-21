@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\bin\Debug\net5.0\Jogo_RPG.exe
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\bin\Debug\net5.0\Jogo_RPG.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\bin\Debug\net5.0\Jogo_RPG.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\bin\Debug\net5.0\Jogo_RPG.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\bin\Debug\net5.0\Jogo_RPG.dll
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\bin\Debug\net5.0\ref\Jogo_RPG.dll
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\bin\Debug\net5.0\Jogo_RPG.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.dll
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\ref\Jogo_RPG.dll
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Jogo_RPG\obj\Debug\net5.0\Jogo_RPG.genruntimeconfig.cache

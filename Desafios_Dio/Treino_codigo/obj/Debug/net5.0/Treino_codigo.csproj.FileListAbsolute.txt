@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\bin\Debug\net5.0\Treino_codigo.exe
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\bin\Debug\net5.0\Treino_codigo.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\bin\Debug\net5.0\Treino_codigo.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\bin\Debug\net5.0\Treino_codigo.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\bin\Debug\net5.0\Treino_codigo.dll
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\bin\Debug\net5.0\ref\Treino_codigo.dll
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\bin\Debug\net5.0\Treino_codigo.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.dll
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\ref\Treino_codigo.dll
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Desafios_Dio\Treino_codigo\obj\Debug\net5.0\Treino_codigo.genruntimeconfig.cache
