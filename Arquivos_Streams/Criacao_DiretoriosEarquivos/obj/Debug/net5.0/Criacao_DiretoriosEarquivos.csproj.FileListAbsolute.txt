@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\bin\Debug\net5.0\Criacao_DiretoriosEarquivos.exe
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\bin\Debug\net5.0\Criacao_DiretoriosEarquivos.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\bin\Debug\net5.0\Criacao_DiretoriosEarquivos.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\bin\Debug\net5.0\Criacao_DiretoriosEarquivos.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\bin\Debug\net5.0\Criacao_DiretoriosEarquivos.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\bin\Debug\net5.0\ref\Criacao_DiretoriosEarquivos.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\bin\Debug\net5.0\Criacao_DiretoriosEarquivos.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\ref\Criacao_DiretoriosEarquivos.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Criacao_DiretoriosEarquivos\obj\Debug\net5.0\Criacao_DiretoriosEarquivos.genruntimeconfig.cache

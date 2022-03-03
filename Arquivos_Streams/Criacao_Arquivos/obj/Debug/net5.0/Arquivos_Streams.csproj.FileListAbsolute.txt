@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\bin\Debug\net5.0\Arquivos_Streams.exe
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\bin\Debug\net5.0\Arquivos_Streams.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\bin\Debug\net5.0\Arquivos_Streams.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\bin\Debug\net5.0\Arquivos_Streams.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\bin\Debug\net5.0\Arquivos_Streams.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\bin\Debug\net5.0\ref\Arquivos_Streams.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\bin\Debug\net5.0\Arquivos_Streams.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\ref\Arquivos_Streams.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\obj\Debug\net5.0\Arquivos_Streams.genruntimeconfig.cache

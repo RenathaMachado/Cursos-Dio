@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\bin\Debug\net5.0\Eventos_Watcher.exe
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\bin\Debug\net5.0\Eventos_Watcher.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\bin\Debug\net5.0\Eventos_Watcher.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\bin\Debug\net5.0\Eventos_Watcher.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\bin\Debug\net5.0\Eventos_Watcher.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\bin\Debug\net5.0\ref\Eventos_Watcher.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\bin\Debug\net5.0\Eventos_Watcher.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\ref\Eventos_Watcher.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Eventos_Watcher\obj\Debug\net5.0\Eventos_Watcher.genruntimeconfig.cache

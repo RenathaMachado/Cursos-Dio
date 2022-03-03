@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\bin\Debug\net5.0\LerDiretorios.exe
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\bin\Debug\net5.0\LerDiretorios.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\bin\Debug\net5.0\LerDiretorios.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\bin\Debug\net5.0\ref\LerDiretorios.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\bin\Debug\net5.0\LerDiretorios.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\ref\LerDiretorios.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\LerDiretorios\obj\Debug\net5.0\LerDiretorios.genruntimeconfig.cache

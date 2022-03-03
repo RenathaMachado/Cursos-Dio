@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.AssemblyInfo.cs
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\bin\Debug\net5.0\Lendo e escrevendo arquivos com Stream.exe
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\bin\Debug\net5.0\Lendo e escrevendo arquivos com Stream.deps.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\bin\Debug\net5.0\Lendo e escrevendo arquivos com Stream.runtimeconfig.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\bin\Debug\net5.0\Lendo e escrevendo arquivos com Stream.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\bin\Debug\net5.0\Lendo e escrevendo arquivos com Stream.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\bin\Debug\net5.0\ref\Lendo e escrevendo arquivos com Stream.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\bin\Debug\net5.0\Lendo e escrevendo arquivos com Stream.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\ref\Lendo e escrevendo arquivos com Stream.dll
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.pdb
+C:\Users\Andre\Documents\Atividades_Dio\Arquivos_Streams\Lendo e escrevendo arquivos com Stream\obj\Debug\net5.0\Lendo e escrevendo arquivos com Stream.genruntimeconfig.cache
